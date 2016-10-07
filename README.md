@@ -1,8 +1,11 @@
 # hello-world
-per-se-ver-ance: noun steadfastness in doing something despite difficulty or delay in achieving success.
+I'm learning to code.
 
-This is the beginning of my journey.
+This is my first interaction with Github.
 
-Going from nothing to something  - harnessing my internal desire for success, acceptance, and self appreciation. I'm out to prove to myself that I can be challenged, overcome, and succeed. I plan on using my skills honed from a neverending desire to learn to promote love, happiness, and spirtual wealth. 
+Coding is challenging and fun
 
-Today is a new beginning.
+Can't wait for this to be easy.
+
+
+I changed this from a meaningful, deep perspective, to a generic factoid.
