@@ -1,2 +1,6 @@
 # hello-world
-per-se-ver-ance: noun steadfastness in doing something despite difficulty or delay in achieving success.
+I'm learning to code.
+This is my first interaction with Github.
+Coding is challenging and fun.
+
+I can't wait for this to be easy.
